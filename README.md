@@ -42,5 +42,7 @@ But  recently Just hooked with name "Data". So I'm trying to start new focus for
       •	Communicating with internet and other vendors for CDI Needs.
       •	Prioritizing and managing many open cases at one time.
 
+  ## Find me at Upwork - https://www.upwork.com/freelancers/jessym3?mp_source=share
+
 
 
