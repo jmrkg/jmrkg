@@ -1,6 +1,5 @@
-# About Me : An IT professional
-  /-I specialize in providing top-notch tech support to individuals and businesses alike. With a wealth of experience in troubleshooting hardware and software issues, setting up networks, and optimizing system performance, I am committed to delivering efficient solutions tailored to specific needs.My expertise spans across various platforms and environments, including Windows, macOS, Linux, and mobile devices. Whether you're encountering network connectivity issues, software glitches, or need guidance with system configurations, 
-But  recently Just hooked with name "Data". So I'm trying to start new focus for Data analyst.
+# About Me 
+  /-I specialize in providing top-notch tech support to individuals and businesses alike. With a wealth of experience in troubleshooting hardware and software issues, setting up networks, and optimizing system performance. Woking with cloud computing- Azure, GCP. I am committed to delivering efficient solutions tailored to specific needs.My expertise spans across various platforms and environments, including Windows, macOS, Linux, and mobile devices. Whether you're encountering network connectivity issues, Developing services in Cloud, software glitches, or need guidance with system configurations, 
 # My linkedin - https://www.linkedin.com/in/jessymgomes/
 # Education -
         /- Bsc In Computer Studies
