@@ -1,5 +1,5 @@
 # About Me 
-  /-I specialize in providing top-notch tech support to individuals and businesses alike. With a wealth of experience in troubleshooting hardware and software issues, setting up networks, and optimizing system performance. Woking with cloud computing- Azure, GCP. I am committed to delivering efficient solutions tailored to specific needs.My expertise spans across various platforms and environments, including Windows, macOS, Linux, and mobile devices. Whether you're encountering network connectivity issues, Developing services in Cloud, software glitches, or need guidance with system configurations, 
+Providing top-notch tech support to individuals and businesses alike. With a wealth of experience in troubleshooting hardware and software issues, setting up networks, and optimizing system performance. Committed to delivering efficient solutions tailored to specific needs.My expertise spans across various platforms and environments, including Windows, macOS, Linux, and mobile devices. Whether you're encountering network connectivity issues, software glitches, or need guidance with system configurations, 
 # My linkedin - https://www.linkedin.com/in/jessymgomes/
 # Education -
         /- Bsc In Computer Studies
@@ -7,11 +7,9 @@
 # Certifications -
   ## Technical -
         /- CyberSecurity 
-        /- Professional Web Design
         /- CCNA
         /- Comptia A+
-        /- Safer internet for Children
-        /- Digital Security essentials 
+     
   ## non-Technical
         /- Child Protection and Development
         /- (ToT) Training of trainers
