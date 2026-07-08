@@ -1,5 +1,24 @@
 # About Me 
-Providing top-notch tech support to individuals and businesses alike. With a wealth of experience in troubleshooting hardware and software issues, setting up networks, and optimizing system performance. Committed to delivering efficient solutions tailored to specific needs.My expertise spans across various platforms and environments, including Windows, macOS, Linux, and mobile devices. Whether you're encountering network connectivity issues, software glitches, or need guidance with system configurations, 
+Entry level Security Professional with pentesting and CTF exprecience and other security related tools delivering IT management, technical support, report writing, Internet security, web design, vibe code and AI uses, secure infrastructure solutions for organizations. I specialize in AI use for security, vibe code your dashboard or single web apps.
+I help businesses streamline their IT operations, improve system reliability, and strengthen security through:
+
+✅Software and hardware Troubeshhot Support
+
+✅Vibe code Dashboard Design, Webdesign.
+
+✅Endpoint security and malware prevention
+
+✅cpnale, firebase and other hosting troublshooter, helper
+
+✅Write and report security policies
+
+✅Technical documentation and IT asset management
+
+✅Remote and onsite technical support
+
+With a proven track record in hardware/software procurement, IT policy implementation, and risk reduction, I ensure technology aligns with organizational goals while protecting sensitive information.
+I bring clear communication, fast problem-solving, and strict attention to security protocols to every project. Whether you need remote IT support.
+Let’s work together to keep your technology efficient, reliable, and safe.
 # My linkedin - https://www.linkedin.com/in/jessymgomes/
 # Education -
         /- Bsc In Computer Studies
@@ -9,6 +28,11 @@ Providing top-notch tech support to individuals and businesses alike. With a wea
         /- CyberSecurity 
         /- CCNA
         /- Comptia A+
+        /- Introduction to Artificial Intelligence
+        /- Ethical Hacking and Cybersecurity
+        /- Pentesting and Bug Bounty 
+        /- Artificial Intelligence for Cybersecurity
+
      
   ## non-Technical
         /- Child Protection and Development
